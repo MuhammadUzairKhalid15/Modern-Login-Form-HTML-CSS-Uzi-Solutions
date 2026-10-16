@@ -2,8 +2,8 @@
 
 A clean, modern login form built with **HTML & CSS only**. Teal theme, icon boxes attached to each input, a glowing focus effect and a smooth hover on the login button. **Zero JavaScript.**
 
-🔗 **Live Demo:** https://muhammaduzairkhalid15.github.io/Modern-Login-Form-HTML-CSS/
-💻 **Repository:** https://github.com/MuhammadUzairKhalid15/Modern-Login-Form-HTML-CSS
+🔗 **Live Demo:** https://muhammaduzairkhalid15.github.io/Modern-Login-Form-HTML-CSS-Uzi-Solutions/
+💻 **Repository:** https://muhammaduzairkhalid15.github.io/Modern-Login-Form-HTML-CSS-Uzi-Solutions/
 
 > ⭐ If this helped you, a star on the repo means a lot!
 
